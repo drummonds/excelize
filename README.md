@@ -18,15 +18,16 @@ Excelize is a library written in pure Go providing a set of functions that allow
 ## Basic Usage
 
 ### Installation
+Note go get github.com/xuri/excelise has been deleted so updating refs so should work
 
 ```bash
-go get github.com/xuri/excelize
+go get github.com/drummonds/excelize
 ```
 
 - If your packages are managed using [Go Modules](https://go.dev/blog/using-go-modules), please install with following command.
 
 ```bash
-go get github.com/xuri/excelize/v2
+go get github.com/drummonds/excelize/v2
 ```
 
 ### Create spreadsheet
