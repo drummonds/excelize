@@ -1,4 +1,4 @@
-module github.com/drummonds/excelize/v2
+module github.com/drummonds/excelize
 
 go 1.16
 
